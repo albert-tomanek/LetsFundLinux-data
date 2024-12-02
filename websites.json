@@ -1,0 +1,8 @@
+[
+    {
+        "pattern": "//(\\w+\\.)mastodon\\.social/",
+        "funding": {
+            "patreon": "https://www.patreon.com/mastodon"
+        }
+    }
+]
