@@ -1,8 +1,26 @@
 [
     {
-        "pattern": "//(\\w+\\.)mastodon\\.social/",
+        "pattern": "//(\\w+\\.)?mastodon\\.social/",
         "funding": {
-            "patreon": "https://www.patreon.com/mastodon"
+            "patreon": "https://www.patreon.com/mastodon",
+            "github": "https://github.com/sponsors/mastodon"
+        }
+    },
+    {
+        "pattern": "//(\\w+\\.)?joinpeertube\\.org/",
+        "funding": {
+            "IBAN": "FR76 1027 8073 4600 0204 9590 182",
+            "paypal": "https://www.paypal.com/donate/?cmd=_donations&amount=80&business=6HSVUPKRDAGC2"
+        }
+    },
+    {
+        "pattern": "//(\\w+\\.)?lemmy\\.world/",
+        "funding": {
+            "ko-fi": "https://ko-fi.com/fhfworld",
+            "opencollective": "https://opencollective.com/mastodonworld",
+            "patreon": "https://patreon.com/mastodonworld",
+            "liberapay": "https://en.liberapay.com/fhf",
+            "github": "https://github.com/sponsors/Fedihosting-Foundation"
         }
     }
 ]

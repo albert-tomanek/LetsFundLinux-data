@@ -1,0 +1,19 @@
+[
+    {
+        "id": "org.kde.kdenlive",
+        "funding": {
+            "github": "https://github.com/sponsors/KDE/",
+            "donorbox": "https://donorbox.org/kde-community".
+            "iban": "DE82 2007 0024 0066 6446 00"
+        }
+    },
+    {
+        "id": "com.rafaelmardojai.Blanket",
+        "funding": {
+            "paypal": "https://paypal.me/RafaelMardojaiCM",
+            "github": "https://github.com/sponsors/rafaelmardojai",
+            "patreon": "https://www.patreon.com/bePatron?u=61827176",
+            "liberapay": "https://liberapay.com/rafaelmardojai/donate"
+        }
+    }
+]
