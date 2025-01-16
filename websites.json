@@ -1,5 +1,11 @@
 [
     {
+        "pattern": "//(\\w+\\.)*wikipedia\\.org/",
+        "funding": {
+            "IBAN": "GB12CITI18500818796270"
+        }
+    },
+    {
         "pattern": "//(\\w+\\.)?mastodon\\.social/",
         "funding": {
             "patreon": "https://www.patreon.com/mastodon",
