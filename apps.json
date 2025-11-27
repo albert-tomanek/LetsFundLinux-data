@@ -15,5 +15,17 @@
             "patreon": "https://www.patreon.com/bePatron?u=61827176",
             "liberapay": "https://liberapay.com/rafaelmardojai/donate"
         }
+    },
+    {
+        "id": "org.inkscape.Inkscape",
+        "funding": {
+            "paypal": "https://www.paypal.com/donate?business=TB9MW2NEPTE82"
+        }
+    },
+    {
+        "id": "org.milkytracker.MilkyTracker",
+        "funding": {
+            "paypal": "https://www.paypal.com/donate?business=peter@nxbone.net"
+        }
     }
 ]
