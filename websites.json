@@ -2,7 +2,9 @@
     {
         "pattern": "//(\\w+\\.)*wikipedia\\.org/",
         "funding": {
-            "IBAN": "GB12CITI18500818796270"
+            "IBAN": "GB12CITI18500818796270",
+            "paypal": "https://www.paypal.com/donate/?business=EZ782AXEUJUW8",
+            "custom": "https://donate.wikimedia.org/w/index.php"
         }
     },
     {
@@ -13,10 +15,16 @@
         }
     },
     {
+        "pattern": "//(\\w+\\.)?modarchive\\.org/",
+        "funding": {
+            "paypal": "https://www.paypal.com/donate/?business=5APLJ7683667W"
+        }
+    },
+    {
         "pattern": "//(\\w+\\.)?joinpeertube\\.org/",
         "funding": {
             "IBAN": "FR76 1027 8073 4600 0204 9590 182",
-            "paypal": "https://www.paypal.com/donate/?cmd=_donations&amount=80&business=6HSVUPKRDAGC2"
+            "paypal": "https://www.paypal.com/donate/?business=6HSVUPKRDAGC2"
         }
     },
     {
@@ -27,6 +35,18 @@
             "patreon": "https://patreon.com/mastodonworld",
             "liberapay": "https://en.liberapay.com/fhf",
             "github": "https://github.com/sponsors/Fedihosting-Foundation"
+        }
+    },
+    {
+        "pattern": "//(\\w+\\.)?lemmy\\.ml/",
+        "funding": {
+            "ko-fi": "https://ko-fi.com/lemmynet",
+            "opencollective": "https://opencollective.com/lemmy",
+            "patreon": "https://www.patreon.com/dessalines",
+            "liberapay": "https://liberapay.com/Lemmy",
+            "bitcoin": "1Hefs7miXS5ff5Ck5xvmjKjXf5242KzRtK",
+            "etherium": "0x400c96c96acbC6E7B3B43B1dc1BB446540a88A01",
+            "monero": "41taVyY6e1xApqKyMVDRVxJ76sPkfZhALLTjRvVKpaAh2pBd4wv9RgYj1tSPrx8wc6iE1uWUfjtQdTmTy2FGMeChGVKPQuV"
         }
     }
 ]
