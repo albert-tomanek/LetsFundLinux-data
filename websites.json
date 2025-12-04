@@ -8,6 +8,14 @@
         }
     },
     {
+        "pattern": "archive\\.org/",
+        "funding": {
+            "paypal": "https://www.paypal.com/donate/?business=EBHK3PQRGBQH6",
+            "bitcoin": "1Archive1n2C579dMsAu3iC6tWzuQJz8dN",
+            "ethereum": "0xa23fa5a73C6366f6a829aC1F452A24eFdc5EcFF7"
+        }
+    },
+    {
         "pattern": "//(\\w+\\.)?mastodon\\.social/",
         "funding": {
             "patreon": "https://www.patreon.com/mastodon",
